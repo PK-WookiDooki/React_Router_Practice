@@ -1,0 +1,12 @@
+export { default as Home } from "./Home";
+export { default as About } from "./About";
+export { default as Vans } from "./Vans";
+export { default as VanDetail } from "./VanDetail";
+export { default as Dashboard } from "./host/Dashboard";
+export { default as Income } from "./host/Income";
+export { default as Reviews } from "./host/Reviews";
+export { default as HostVans } from "./host/HostVans";
+export { default as HostVanDetail } from "./host/HostVanDetail";
+export { default as HostVanInfo } from "./host/HostVanInfo";
+export { default as HostVanPricing } from "./host/HostVanPricing";
+export { default as HostVanPhotos } from "./host/HostVanPhotos";
